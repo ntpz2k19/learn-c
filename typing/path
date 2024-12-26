@@ -1,0 +1,4 @@
+buat quiz typing sesuai kata yang ditampilkan.
+
+gunakan randomizer untuk meng generate huruf random dan switch statement.
+untuk membandingkan input gunakan strcmp()
